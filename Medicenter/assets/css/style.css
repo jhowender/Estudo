@@ -114,3 +114,9 @@ nav a:hover {
     color: #fff;
     font-size: 13px;
 }
+.separar {
+    display: flex;
+    justify-content: space-between;
+    padding: 10px 15px 15px 0;
+    border-bottom: 0.5px solid rgba(224, 223, 223, 0.607);
+}
