@@ -192,3 +192,14 @@ article .news_resume {
     line-height: 20px;
     margin-bottom: 30px;
 }
+.departaments{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+.departaments div {
+    background-color: #0079c7;
+    height: 150px;
+    width: 150px;
+    margin: 0 0 20px 0;
+}
