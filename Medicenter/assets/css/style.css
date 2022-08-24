@@ -254,6 +254,15 @@ footer {
 .fm_3 {
     background-color: #2b4c99;
 }
+.fm_title {
+    font-size: 20px;
+    padding-bottom: 10px;
+}
+.fm_text a {
+    font-size: 10px;
+    text-decoration: none;
+    color: #fff;
+}
 .footer_area {
     display: flex;
 }
